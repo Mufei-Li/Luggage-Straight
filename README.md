@@ -1,32 +1,26 @@
 # 行李直达 · Luggage Direct
 
-“行李直达”是面向城市自由行旅客的行李转运服务创意。本仓库提供一个**仅用于展示创意的前端原型**：模拟微信小程序的首页、创建订单、订单追踪和个人中心，包含表单填写、页面跳转、状态展示、折叠说明；不连接后端，不产生真实订单、支付或物流。
+“行李直达”是面向城市自由行旅客的行李转运服务平台项目。本仓库包含项目策划书、演示文稿、相关申报材料，以及用于创意展示的前端原型。
 
-## 快速开始 | Quick start
-
-直接用浏览器打开 `app/index.html` 即可体验，也可使用任意静态文件服务器访问 `app/`。
-
-## 页面与功能 | Pages & features
-
-- 首页 / Home：品牌主张、四项服务能力、最近订单。
-- 创建订单 / New order：酒店、目的地、离城时间、行李数量填写与校验。
-- 订单追踪 / Track：模拟“酒店已接收 → 转运中 → 已到达枢纽”时间线。
-- 我的 / Me：使用说明和项目简介折叠面板。
-
-## 项目背景 | Background
+## 项目简介 | Overview
 
 项目聚焦“酒店退房至离开城市”的行李负担，整合酒店寄存点、运输资源和机场/高铁站寄存点，让旅客轻装游览后直接取件离城。
 
-## 贡献者 | Contributors
+The project addresses luggage inconvenience between hotel checkout and departure. It connects hotel storage points, transport resources, and airport/railway-station pickup points to enable a lighter final day of travel.
 
-团队成员可通过 GitHub 仓库 **Settings → Collaborators → Add people** 以账号邀请为协作者；若只希望保留贡献记录，可让成员使用自己的 GitHub 账号提交 Pull Request，合并后会自动显示在 Contributors。
+## 前端原型 | Frontend prototype
 
-### 贡献者指南 | Contributor guide
+直接用浏览器打开 `app/index.html` 即可体验。原型模拟微信小程序的首页、创建订单、订单追踪和个人中心，包含表单填写、页面跳转、状态展示与折叠说明；不连接后端，不产生真实订单、支付或物流。
 
-1. Fork 本仓库并创建功能分支（如 `feature/your-name`）。
-2. 修改代码后提交，并发起 Pull Request，描述改动和截图。
-3. 维护者审核后合并。请保持界面朴素，并同步更新中英文字段。
+Open `app/index.html` in a browser. The prototype demonstrates the home page, order creation, tracking, and profile views with basic form validation and navigation. It is frontend-only and does not process real orders, payments, or logistics.
+
+## 项目材料 | Project materials
+
+- `app/`：前端演示原型 / frontend demonstration prototype
+- `行李转运服务平台三创赛策划书.docx`：项目策划书 / project proposal
+- `第五组 101舍处.pptx`：项目演示文稿 / project presentation
+- 其他申报、承诺及参考材料 / supporting application and reference materials
 
 ## 许可 | License
 
-本原型用于“三创赛”项目创意公示与演示，素材版权归项目团队所有。
+本仓库用于“三创赛”项目展示与材料归档，素材版权归项目团队所有。
