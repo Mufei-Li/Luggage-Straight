@@ -21,6 +21,26 @@ Open `app/index.html` in a browser. The prototype demonstrates the home page, or
 - `第五组 101舍处.pptx`：项目演示文稿 / project presentation
 - 其他申报、承诺及参考材料 / supporting application and reference materials
 
+## 阅读指南 | Reading guide
+
+建议按以下顺序了解项目：
+
+1. **先看演示文稿**：打开 `第五组 101舍处.pptx`，快速了解项目痛点、服务模式、商业模式、平台功能和发展规划。PPT适合进行整体概览。
+2. **再读项目策划书**：打开 `行李转运服务平台三创赛策划书.docx`，进一步阅读市场分析、竞争分析、运营方案、技术架构、财务规划和风险分析。策划书适合进行完整、深入的项目评估。
+3. **最后体验前端原型**：在浏览器中打开 `app/index.html`，结合策划书第四部分“平台功能与技术架构规划”，体验下单、订单追踪和个人中心等演示界面。
+
+### 文件对应关系 | File map
+
+| 想了解的内容 / Topic | 推荐材料 / Recommended file |
+| --- | --- |
+| 项目定位与核心创意 / Positioning and concept | PPT、策划书第 1—2 章 / PPT, Chapters 1—2 |
+| 服务流程与平台功能 / Service flow and features | PPT“项目设计”部分、策划书第 2、4 章、`app/` / PPT project design, Chapters 2 and 4, `app/` |
+| 商业模式与盈利方式 / Business model | PPT“商业模式”部分、策划书第 3 章 / PPT business model, Chapter 3 |
+| 市场、竞争与发展规划 / Market and strategy | PPT“市场环境”“战略规划”、策划书第 6—8 章 / PPT market and strategy, Chapters 6—8 |
+| 财务与风险分析 / Finance and risks | 策划书第 9—10 章 / Chapters 9—10 |
+
+推荐使用 Microsoft Word 阅读策划书、Microsoft PowerPoint 阅读演示文稿；如仅需快速浏览，可先查看 PPT，再根据兴趣深入阅读策划书。
+
 ## 许可 | License
 
 本仓库用于“三创赛”项目展示与材料归档，素材版权归项目团队所有。
